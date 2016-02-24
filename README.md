@@ -47,7 +47,7 @@ Please make sure you read [Mantra Specification](https://kadirahq.github.io/mant
 
 * make sure you have Meteor installed
 * clone this repo
-* make sure you are on kickstarter branch
+* make sure you are on kickstarter-release branch
 
 ```
 npm install
